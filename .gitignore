@@ -1,0 +1,18 @@
+# === VS Code ===
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.history/
+*.code-workspace
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === Jenkins & Testing Temporary Files ===
+bin/
+build/
+target/
+*.log
+.groovy/
